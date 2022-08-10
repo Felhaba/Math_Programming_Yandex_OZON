@@ -6,3 +6,5 @@
 * [Олимпиадные задачи по ТеорВеру](http://www.mathnet.ru/links/2104e4fa009e305d4f1d1ebc68928847/mo625.pdf)
 * [Олимпиадные задачи по МатАнализу](http://www.mathnet.ru/links/6f6fefe93ca6bb6a4474f7fc97e7e45d/mo705.pdf)
 * [OZON Masters](https://ozonmasters.ru/submission)
+
+**PS:** Later on I expect to translate some of the tasks in English. I hope this idea will come true :)
